@@ -1,4 +1,4 @@
-# 🦇 Fettschmelzer
+# 🦇 Fatman
 
 **Koalition der Willigen** – ein spielerischer Gewichts-Tracker fürs Handy, installierbar als echte App (PWA).
 
