@@ -1,4 +1,4 @@
-/* ===== Fettschmelzer – Koalition der Willigen ===== */
+/* ===== Fatman – Koalition der Willigen ===== */
 
 /* Skurrile Objekte – Betrag der Veränderung seit letzter Messung, 100g-Skala */
 const OBJECTS=[

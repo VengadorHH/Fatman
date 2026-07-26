@@ -1,5 +1,5 @@
 /* Fettschmelzer Service Worker – Offline-Caching */
-const CACHE = 'fettschmelzer-v2';
+const CACHE = 'fatman-v1';
 const ASSETS = [
   'index.html',
   'app.js',

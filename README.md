@@ -43,7 +43,7 @@ erzeugt bloß eine **Verknüpfung** (den Link, den du gesehen hast), keine echte
 5. Nach 1–2 Minuten läuft die App unter
    `https://<dein-user>.github.io/fettschmelzer/`
 6. Diese URL in **Chrome auf dem Handy** öffnen. Es erscheint automatisch der
-   Balken **„Fettschmelzer installieren"** – antippen. (Oder Menü ⋮ → „App installieren".)
+   Balken **„Fatman installieren"** – antippen. (Oder Menü ⋮ → „App installieren".)
 7. Fertig – die App liegt mit Batman-Icon auf dem Startbildschirm und startet im Vollbild.
 
 ## Git-Setup
@@ -51,7 +51,7 @@ erzeugt bloß eine **Verknüpfung** (den Link, den du gesehen hast), keine echte
 ```bash
 git init
 git add .
-git commit -m "Fettschmelzer"
+git commit -m "Fatman"
 git branch -M main
 git remote add origin https://github.com/<dein-user>/fettschmelzer.git
 git push -u origin main

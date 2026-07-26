@@ -1,7 +1,7 @@
 {
-  "id": "/fettschmelzer/",
-  "name": "Fettschmelzer",
-  "short_name": "Fettschmelzer",
+  "id": "/fatman/",
+  "name": "Fatman",
+  "short_name": "Fatman",
   "description": "Spielerischer Gewichts-Tracker der Koalition der Willigen",
   "start_url": "index.html",
   "scope": ".",
